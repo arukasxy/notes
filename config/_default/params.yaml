@@ -28,10 +28,10 @@ darkmode: true
 
 # 站点基本信息
 # Site Information Settings
-author: NexT 主题
-subtitle: 为 Hugo 打造的主题
-description: 保持简单的易用性和强大的功能。
-keywords: Hugo,NexT,主题,简单,强大
+author: arukasxy
+subtitle: Notes
+description: 
+keywords: 计算机,C++,数据库
 
 # 不同尺寸站点图标
 # Different size of favicon
@@ -162,9 +162,9 @@ siteState:
 # Key is the link label order.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 socials: 
-  social0: Github || https://github.com/elkan1788 || fab fa-github
-  #social1: E-Mail || mailto:yourname@gmail.com || fa fa-envelope
-  social2: 知乎 || https://www.zhihu.com/people/lisenhui || fa fa-book
+  social0: Github || https://github.com/arukasxy || fab fa-github
+  #social1: E-Mail || mailto:1026565513@qq.com || fa fa-envelope
+  #social2: 知乎 || https://www.zhihu.com/people/lisenhui || fa fa-book
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
@@ -204,9 +204,9 @@ linksSets:
 # 用法： `Key: 显示名称 || 链接地址`
 # Links of your friends
 # Usage: `Key: name || permalink`
-links: 
-  link0: Hugo-NexT || https://gitee.com/hugo-next/hugo-theme-next
-  link1: 凡梦星尘空间站 || https://lisenhui.cn
+# links: 
+  # link0: Hugo-NexT || https://gitee.com/hugo-next/hugo-theme-next
+  # link1: 凡梦星尘空间站 || https://lisenhui.cn
 
 # 文章目录显示
 # Table of Contents in the Sidebar
@@ -285,16 +285,6 @@ footer:
     # 供应商列表，请将带有图标的供应商放在前面
     # Vendors list, remember that who with logo image need put in top.
     list:
-      - name: Vercel
-        image: 
-          url: /imgs/vendors/vercel.svg
-          width: 50
-        link: https://vercel.com
-      - name: 又拍云
-        image: 
-          url: /imgs/vendors/upyun.png
-          width: 43
-        link: https://upyun.com
       - name: Github
         link: https://github.com
         image:
