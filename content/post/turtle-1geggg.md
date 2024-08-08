@@ -11,6 +11,8 @@ tags:
   - pair
 keywords: tuple,pair
 description: 存储多个变量
+categories:
+  - 数据结构
 ---
 
 # 元组
