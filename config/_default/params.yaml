@@ -148,11 +148,11 @@ siteState:
   # 站点访问信息
   # Site information
   views: 
-    enable: true
+    enable: false
     # 组件类型，可选值为： 51la, busuanzi
     # 使用51la时需要注册账号：https://invite.51.la/1NUfGTS1?target=V6
     # Plguin value is: 51la, busuzazi
-    plugin: busuanzi
+    # plugin: busuanzi
 
 # 社交链接地址
 # 用法： `Key: 名称 || 链接地址 || 图标`
