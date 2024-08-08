@@ -16,6 +16,11 @@
 # weight     : Order number and smaller is top
 # -------------------------------------
 main:
+  - identifier: home
+    name: 首页
+    pageref: /content/post
+    pre: home
+    weight: 1
   - identifier: archives
     name: 归档
     pageref: /archives
