@@ -328,10 +328,10 @@ postMeta:
       plugin: waline
     # 是否开启页面访问数显示
     views:
-      enable: true
+      enable: false
       # 页面访问统计插件，支持busuanzi, waline, leancloud
       # Page views counter plugin, support: busuanzi, waline, leancloud
-      plugin: busuanzi
+      # plugin: busuanzi
 
 # 文章底部的设置
 # Post footer settings
@@ -381,8 +381,8 @@ followMe:
 # Post edit
 # Easily browse and edit blog source code online.
 postEdit:
-  enable: true
-  url: https://github.com/user-name/repo-name/tree/branch-name/subdirectory-name/
+  enable: false
+# url: https://github.com/user-name/repo-name/tree/branch-name/subdirectory-name/
 
 
 # 设置文本的对齐方式
@@ -480,7 +480,7 @@ githubBanner:
   enable: true
   # 你的 Github 仓库地址
   # Your repository url on Github.
-  permalink: https://github.com/hugo-next
+  permalink: https://github.com/arukasxy
   # 关注说明
   # Show this title when cursor move on.
   title: Follow me on GitHub
