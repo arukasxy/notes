@@ -2,10 +2,15 @@
 title: queue队列
 slug: queue-queue-z1b93g7
 url: /post/queue-queue-z1b93g7.html
-date: '2024-07-18 16:29:36+08:00'
-lastmod: '2024-08-08 11:08:41+08:00'
+date: '2024-08-08 00:00:00+08:00'
+lastmod: '2024-08-08 00:00:00+08:00'
 toc: true
 isCJKLanguage: true
+tags:
+  - 队列
+categories:
+  - 数据结构
+keywords: 队列
 ---
 
 # queue队列
