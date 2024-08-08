@@ -134,7 +134,7 @@ sidebar:
 avatar:
   # 设置显示头像的相对路径
   # Replace the default image and set the url here.
-  url: /imgs/hugo_next_avatar.png
+  url: /content/post/image-viewer/touxian.png
   # 开启头像的圆形显示效果
   # If true, the avatar will be displayed in circle.
   rounded: true
