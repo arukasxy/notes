@@ -9,10 +9,8 @@ isCJKLanguage: true
 tags:
   - tuple
   - pair
-categories:
-  - 数据结构
-  - 元组
 keywords: tuple,pair
+description: 存储多个变量
 ---
 
 # 元组
