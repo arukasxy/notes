@@ -6,6 +6,12 @@ date: '2024-07-18 17:12:05+08:00'
 lastmod: '2024-08-08 10:30:19+08:00'
 toc: true
 isCJKLanguage: true
+tags:
+  - tuple
+  - pair
+categories:
+  - 数据结构
+keywords: tuple,pair
 ---
 
 # 元组
